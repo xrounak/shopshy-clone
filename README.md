@@ -35,7 +35,7 @@ Every mismatched div, every alignment issue, every hardcoded deal image — it a
 - 🧡 HTML5
 - 🎨 CSS3
 - 🧩 Font Awesome
-- 🌐 Basic JavaScript (external `index.js` file)
+- 🌐 Basic of something
 - 😄 Lots of patience and excitement
 
 ---
